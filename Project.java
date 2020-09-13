@@ -9,7 +9,7 @@ import package1.text.*;
 
 /**
  *
- * @author WINDOWS
+ * @author hp
  */
 public class Project {
     
@@ -41,7 +41,8 @@ class art
     }
     void sum(int a,int b)
     {
-        System.out.println("the sum of given two number is:"+a+b);
+        int c=a+b;
+        System.out.println("the sum of given two number is:"+c);
     }
             
 }

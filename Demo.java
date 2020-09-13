@@ -8,7 +8,7 @@ package package1.text;
 
 /**
  *
- * @author WINDOWS
+ * @author hp
  */
 public class Demo {
     public void box(){
